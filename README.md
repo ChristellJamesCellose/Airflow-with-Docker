@@ -1,9 +1,13 @@
 # Airflow-with-Docker
 
-Using Ubuntu(WSL) Terminal
+Download the Docker
+https://www.docker.com/products/docker-desktop/
+
+After the Docker downloaded, we wil start download the airflow with docker
 
 ## Link How to run airflow in Docker
 https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html
+*Using Ubuntu(WSL) Terminal
 
 1. make a folder
 -> mkdir airflow-docker
