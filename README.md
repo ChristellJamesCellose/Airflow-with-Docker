@@ -16,7 +16,7 @@ https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html
 -> cd airflow-docker
 
 3. fetch docker-compose.yaml.
-curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.3.3/docker-compose.yaml'
+-> (curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.3.3/docker-compose.yaml')
 
 *before that -> run Remove-item alias:curl
 
